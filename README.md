@@ -1,10 +1,9 @@
-### Hi there 👋
+<div align="center"><img src="https://capsule-render.vercel.app/api?text=Hello Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100&width=100%"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PradyotC)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PradyotC&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pradyot's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradyotC&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+</div>
 
 
 <!--
