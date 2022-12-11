@@ -1,7 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?text=Hello Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100&width=100%"/>
-
-
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=PradyotC&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pradyot's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradyotC&layout=compact&theme=buefy&hide_border=true" /> |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PradyotC&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pradyot's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradyotC&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 </div>
 
